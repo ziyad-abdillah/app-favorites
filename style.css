@@ -1,0 +1,197 @@
+.nav-link{
+    margin-right: 100px;
+}
+.main-margin{
+    margin-bottom: 6%;
+}
+section{
+    padding-bottom: 6%;
+    padding-top: 6%;
+}
+section h1{
+    text-align: center;
+    align-content: center;
+}
+section h2{
+    margin-left: 100px;
+}
+section p{
+    text-align: center;
+    align-content: center;
+    font-size: large;
+}
+.card-img-top{
+    width: 33%;
+}
+.logo{
+    text-align: center;
+}
+.lien-logo{
+    text-decoration: none;
+    color: black;
+}
+.lien-logo :hover{
+    border-color: black;
+}
+
+footer {
+    background: black;
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
+.text {
+    font-size: 28px;
+    font-weight: bold;
+}
+.list-footer{
+    display: flex;
+}
+.list-footer a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 20px;
+}
+.list-footer a:hover{
+    color: gray;
+}
+
+footer a{
+    width: 45%
+}
+.media{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.media-logo{
+    width: 10%;
+}
+
+
+#whatsapp{
+    background-color: #128C7E;
+}
+.parent-whatsapp{
+    display: flex;
+    
+}
+#logo-whatsapp{
+    width: 30vw;
+    margin-left: 3%;
+}
+.p-whatsapp{
+    font-size: 16px;
+    margin-bottom: 6%;
+}
+.img-whatsapp{
+    width: 20%;
+}
+.button{
+    background-color: #D3F7D2;
+    padding: 5%;
+    font-size: 14px;
+}
+.main-whatsapp{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.tel-whatsapps{
+    width: 15vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.tel-whatsapp{
+    width: 100%;
+}
+
+#snapchat{
+    background-color: #FFFC00;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#titre-snap{
+    margin-right: 30%;
+    font-size: 40px;
+}
+.parent-snapchat{
+    display: flex;
+}
+.logo-snapchat{
+    height: 50px;
+}
+.parent-telecharger{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.snap-web{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.snap-tel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.btn-snap{
+    background-color: black;
+    color:white;
+    border-radius: 25px;
+    padding: 15px;
+    font-weight: bold;
+}
+.btn-snap2{
+    background-color: white;
+    color:black;
+    border-radius: 25px;
+    padding: 15px;
+    font-weight: bold;
+}
+.img-snap{
+    width: 100%;
+}
+
+#waze{
+    background-color: #15CCFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo-waze{
+    width: 25%;
+    margin-left: 65%;
+}
+#waze p {
+    margin-bottom: 0px;
+}
+.img-waze{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.section-waze1{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.telecharger-waze{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section-waze{
+    padding-top: 0;
+}
+.img-waze img{
+    width: 30%;
+    padding-bottom: 10px;
+}
+.telecharger-waze button{
+    border: 0;
+    border-radius: 25px;
+    height: 80px;
+    background-color: white;
+    font-weight: bolder;
+}
